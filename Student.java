@@ -1,17 +1,18 @@
 class Student {
-	String index;
-	String firstName;
-	String lastName;
+    String index;
+    String firstName;
+    String lastName;
+    List<Integer> labPoints;
 
-	//TODO constructor
+    //TODO constructor
 
-	//TODO seters & getters
+    //TODO seters & getters
 
-	public double getAverage() {
-		//TODO
-	}
+    public double getAverage() {
+        //TODO
+    }
 
-	public boolean hasSignature() {
-		//TODO
-	}
+    public boolean hasSignature() {
+        //TODO
+    }
 }
